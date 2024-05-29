@@ -56,7 +56,7 @@
 ```
 ## NASIL ÇALIŞIR?
 
-<p>- Grupta herhangi bir posta gir ve like atanlar kısmını aç</p>
+<p>- herhangi bir post'un içine gir ve like atanlar kısmını aç</p>
 <p>- En aşağı kadar kaydır</p>
 <p>- En aşağı indiğinde like kutusuna kapanmayacak şekilde 1 kere tıkla</p>
 <p>- F4 tuşuna 1 kere bas</p>

@@ -16,7 +16,7 @@
 // @version      0.3
 // @description  Facebook postlarında F4 tuşu ile beğeni yapan kullanıcıların isimlerini virgülle ayırarak kopyala
 // @author       You
-// @match        www.facebook.com/groups/bgyagain3*
+// @match        www.facebook.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -75,7 +75,7 @@
 // @version      0.1
 // @description  Facebook'ta belirtilen isimlere sahip kullanıcıların profil kartlarını DOM'dan kaldırır.
 // @author       Deniz KOD
-// @match        https://www.facebook.com/*
+// @match        www.facebook.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -119,7 +119,7 @@
 // @version      0.1
 // @description  BGY dışı herkesi silme
 // @author       Deniz KOD
-// @match        https://www.facebook.com/*
+// @match        www.facebook.com/*
 // @grant        none
 // ==/UserScript==
 

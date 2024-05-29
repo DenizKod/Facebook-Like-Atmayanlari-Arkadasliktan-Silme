@@ -1,6 +1,6 @@
 # Facebook Like Atmayanlari Arkadadasliktan Silme
 
-### ADIM 1
+### ADIM 1 (BETİK 1)
 
 <p>- Facebook dilini Türkçe yap</p>
 <p>- Tampermonkey eklentisi tarayıcınıza ekleyin</p>

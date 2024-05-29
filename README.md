@@ -60,6 +60,7 @@
 <p>- En aşağı kadar kaydır</p>
 <p>- En aşağı indiğinde like kutusuna kapanmayacak şekilde 1 kere tıkla</p>
 <p>- F4 tuşuna 1 kere bas</p>
+<p>- Kopyalanan isimleri bir metin belgesine kaydet, birazdan lazım olacak</p>
 
 # ADIM 2 (BETİK 2)
 
@@ -102,7 +103,8 @@
 })();
 ```
 
-<p> BETİK 2'DE bu kısmı bulun : const gizlenecekKullaniciAdlariString = "İsim 1, İsim 2, İsim 3, İsim4"; ve az önce sizin kopyaladığınız virgülle ayrılmış isimleri çift tırnağın arasına ekleyin</p>
+<p> BETİK 2'DE bu kısmı bulun : const gizlenecekKullaniciAdlariString = "İsim 1, İsim 2, İsim 3, İsim4"; 
+az önce kopyaladığınız metin belgesindeki isimleri çift tırnağın arasına ekleyin</p>
 
 ![image](https://github.com/DenizKod/FacebookBGY/assets/168285638/d2049898-5da0-485f-8512-155b9cda6467)
 
@@ -199,7 +201,7 @@
 })();
 ```
 <p>- Bu koduda 3. betik olarak Tampermonkey'e ekledikten sonra profilinize gidin ve arkadaşların olduğu kısma girin</p>
-<p>- Listenin en en en en en altına indikten sonra F6 tuşuna basın. böylelikle az önce BGY'de isimlerini kopyaladığınız herkes arkadaş listesinden kaybolacak (sayfa yenilene kadar kaybolurlar)</p>
+<p>- Listenin en en en en en altına indikten sonra F6 tuşuna basın. böylelikle az önce isimlerini kopyaladığınız herkes arkadaş listesinden kaybolacak (sayfa yenilene kadar kaybolurlar)</p>
 <p>- Herkesin kaybolduğuna emin olduysanız F2 tuşuna basarak silme işlemine başlayın.</p>
 
 

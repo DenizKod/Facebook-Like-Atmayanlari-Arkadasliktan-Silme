@@ -8,7 +8,7 @@
 
 ![image](https://github.com/DenizKod/ARK-ISTEGI-IPTAL-ETME/assets/168285638/7e1b2696-803e-447a-ae3f-f7844a44d28f)
 
-### Aşağıdaki kodu kopyala yeni betik sayfasındaki tüm kodları baştan sona sil ve bunu ekle.
+### Aşağıdaki kodu kopyala ve "yeni betik" sayfasındaki tüm eski kodları baştan sona sil ve alttaki kodu eskiksiz ekle ve kaydet
 ```
 // ==UserScript==
 // @name         Facebook Beğeni Listesi Kopyalayıcı - F4 ile Kopyala, Virgülle Ayır

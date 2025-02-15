@@ -36,7 +36,12 @@
                 // İsimleri al ve boşluklardan temizle
                 var name = user.getAttribute("aria-label");
                 if (name && name !== "Herkesi görmek için bağlantı") {  // spesifik metni hariç tut
-                    name = name.trim();  // trim işlemi burada yapılıyor
+                    // İstenmeyen metinleri temizle
+                    name = name.replace("'in profil resmi", "").trim();
+                    name = name.replace("Eki görmek için tıkla", "").trim();
+                    name = name.replace("'in hikayesi", "").trim();
+                    name = name.replace("Hikayeni gör", "").trim();
+                    name = name.replace("Hikaye Oluştur", "").trim();
                     if (name) {
                         names.push(name);
                     }
